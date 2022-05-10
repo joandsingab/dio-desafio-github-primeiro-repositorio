@@ -1,0 +1,5 @@
+Git Init: utilizado para criar um novo projeto de git.
+Git Clone: cria uma cópia exata de um repositório ja existente.
+Git Add: adiciona arquivos especificos de código ao seu repositório.
+Git commit: executa commit dos arquivos que foram adicionados.   (para adicionar uma mensagem utilizar o ""), ou seja, git commit -m "mensagem".
+Git Push: subir modificações para um repositório.
