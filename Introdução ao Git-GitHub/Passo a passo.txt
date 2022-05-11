@@ -1,0 +1,8 @@
+Após criar uma nova pasta siga:
+
+1- git status (terá uma linha em vermelho identificando que tem arquivo novo)
+2 - git add . ou git add -a (para adicionar o novo arquivo)
+3 - git status de novo (terá uma linha em verde identificando que adicinou as novas informaçõe)
+4 - git commit -m "inclusão nome da nova pasta"
+5 - git status de novo para verificar como está o status e se está tudo certo para dar "git push"
+6 - git push origin main (comando final para subir a nova pasta para o github).
